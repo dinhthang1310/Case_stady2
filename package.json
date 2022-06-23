@@ -1,0 +1,11 @@
+{
+  "name": "Tạo màn hình đăng nhập",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/node": "17.0.41",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.4"
+  }
+}
